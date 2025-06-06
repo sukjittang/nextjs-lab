@@ -1,5 +1,5 @@
 .
-├── my-first-nextjs
+├── My-first-nextjs
 │   ├── eslint.config.mjs
 │   ├── jsconfig.json
 │   ├── next.config.mjs

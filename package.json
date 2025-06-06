@@ -1,0 +1,20 @@
+{
+  "name": "nextjs-lab",
+  "version": "1.0.0",
+  "description": "**Description:**  \r คลังเก็บโค้ดนี้ใช้สำหรับจัดเก็บชุดแบบฝึกปฏิบัติ (Lab) ของรายวิชา **WE670 – การพัฒนาเว็บแอปพลิเคชันขั้นสูง**  \r โดยเน้นการพัฒนา **Full-Stack Web Application** ด้วย **Next.js (React Framework)** \r รวมถึงโค้ดของ **Final Project** ที่เป็นโครงงานประจำวิชา",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukjittang/nextjs-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukjittang/nextjs-lab/issues"
+  },
+  "homepage": "https://github.com/sukjittang/nextjs-lab#readme"
+}

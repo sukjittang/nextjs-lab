@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         <header>
-          <h1>My First Next.js App</h1>
+          <h1>My First NextJS App</h1>
           <nav>
             <Link href="/">หน้าแรก</Link> |{" "}
             <Link href="/about">เกี่ยวกับเรา</Link> |{" "}

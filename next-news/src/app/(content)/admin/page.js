@@ -76,7 +76,7 @@ export default function AdminPage() {
                         src={preview}
                         alt="preview"
                         className={styles.preview}
-                        width={300} // กำหนดขนาดให้เหมาะสม
+                        width={300} // กำหนดขนาดให้เหมาะสมกับงาน
                         height={300}
                     />
                 )}

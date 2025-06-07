@@ -1,7 +1,7 @@
 {
   "name": "nextjs-lab",
   "version": "1.0.0",
-  "description": "**Description:**  \r แบบฝึกปฏิบัติ (Lab) รายวิชา **WE670 – การพัฒนาเว็บแอปพลิเคชันขั้นสูง** \r,
+  "description": "**Description:**  \r แบบฝึกปฏิบัติ (Lab) รายวิชา **WE670 – การพัฒนาเว็บแอปพลิเคชันขั้นสูง** \r",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
